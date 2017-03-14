@@ -21,11 +21,3 @@ Each row in the dataset represents a different major in college and contains inf
     Low_wage_jobs -   Number in low-wage service jobs.
     Full_time -       Number employed 35 hours or more.
     Part_time -       Number employed less than 36 hours.
-   
-Using visualizations, we can start to explore questions from the dataset like:
-    Do students in more popular majors make more money?
-      Using scatter plots
-    How many majors are predominantly male? Predominantly female?
-      Using histograms
-    Which category of majors have the most students?
-      Using bar plots
